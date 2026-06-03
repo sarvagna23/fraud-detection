@@ -2,8 +2,10 @@
 
 Enterprise-grade machine learning pipeline for real-time credit card fraud detection using XGBoost, FastAPI, PostgreSQL, AWS and Docker.
 
-## Live Demo
+## Live Deployment
 API deployed on AWS EC2: `http://13.59.231.219:8000/health`
+
+![AWS Deployment](aws-deployment.png)
 
 ## Results
 
