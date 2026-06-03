@@ -1,6 +1,9 @@
 # Fraud Detection ML Pipeline
 
-Enterprise-grade machine learning pipeline for real-time credit card fraud detection using XGBoost, FastAPI, PostgreSQL, and Docker.
+Enterprise-grade machine learning pipeline for real-time credit card fraud detection using XGBoost, FastAPI, PostgreSQL, AWS and Docker.
+
+## Live Demo
+API deployed on AWS EC2: `http://13.59.231.219:8000/health`
 
 ## Results
 
